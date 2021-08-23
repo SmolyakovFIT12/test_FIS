@@ -1,0 +1,6 @@
+c:\users\dfa85\documents\visual studio 2015\Projects\test_fis\test_fis\bin\Debug\test_fis.exe.config
+c:\users\dfa85\documents\visual studio 2015\Projects\test_fis\test_fis\bin\Debug\test_fis.exe
+c:\users\dfa85\documents\visual studio 2015\Projects\test_fis\test_fis\bin\Debug\test_fis.pdb
+c:\users\dfa85\documents\visual studio 2015\Projects\test_fis\test_fis\obj\Debug\test_fis.csprojResolveAssemblyReference.cache
+c:\users\dfa85\documents\visual studio 2015\Projects\test_fis\test_fis\obj\Debug\test_fis.exe
+c:\users\dfa85\documents\visual studio 2015\Projects\test_fis\test_fis\obj\Debug\test_fis.pdb
